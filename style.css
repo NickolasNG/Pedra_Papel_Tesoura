@@ -4,3 +4,21 @@
     box-sizing: border-box;
     font-family: "poppins", sans-serif;
 }
+/* mesa do jogo */
+.container-jogo{
+    border: 350px solid wheat;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+/* Tamanho das cartas */
+.imgCartas{
+    width: 250px;
+    height: 350px;
+}
+/* Disposição das cartas */
+.container-jogo-cartas{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}

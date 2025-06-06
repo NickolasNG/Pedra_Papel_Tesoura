@@ -1,0 +1,32 @@
+[33mcommit bea4092789123346486ccd6e2c98c792aad73835[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcontainerNick[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Samuray <gabriel.m.s2100@gmail.com>
+Date:   Fri Jun 6 17:32:09 2025 -0300
+
+    feat: Add 2 images backgrounds to file images.
+
+[33mcommit bae0e0ae8c4f4d75387f2b07415c2daefe0c728e[m
+Author: Samuray <gabriel.m.s2100@gmail.com>
+Date:   Fri Jun 6 17:05:00 2025 -0300
+
+    feat: Add File -images with 3 cards.
+
+[33mcommit 02162ae4ce6d2d9586044f95ad1bbf6cf103479f[m
+Merge: 79a8fe3 2875e38
+Author: Nickolas Gonçalves <144142423+NickolasNG@users.noreply.github.com>
+Date:   Fri Jun 6 16:37:07 2025 -0300
+
+    Merge pull request #1 from NickolasNG/container
+    
+    Feat: add container with title and description
+
+[33mcommit 2875e389210c9739a70042b04bc7806f7704aab3[m
+Author: Samuray <gabriel.m.s2100@gmail.com>
+Date:   Fri Jun 6 16:35:08 2025 -0300
+
+    Feat: add container with title and description
+
+[33mcommit 79a8fe3ff4de7072512da1ef43b00c6eb52557e8[m
+Author: Nickolas Nunes Gonçalves <nickolas.dev@hotmail.com>
+Date:   Fri Jun 6 14:28:14 2025 -0300
+
+    adicionando os docs
